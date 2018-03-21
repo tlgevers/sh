@@ -1,0 +1,22 @@
+.bg-primary {
+    background: linear-gradient(to right, #327d5c, #dee2e6);
+    opacity: 0.9;
+}
+
+.navbar-brand {
+    font-family: 'Alex Brush', cursive;
+    font-size: 19px;
+    color: white !important;
+}    
+
+h1 {
+    width:100%;
+    font-family: 'Alex Brush', cursive !important;
+}
+
+.container-fluid {
+    position: absolute;
+    top: 54px;
+    height: calc(100% - 54px);
+    text-align:center;
+}
